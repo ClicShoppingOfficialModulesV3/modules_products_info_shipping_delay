@@ -1,0 +1,4 @@
+
+ module_products_info_shipping_delay = Do you want to display the shipping delay ?
+ module_products_info_delay_description = Display the shipping delay
+ text_display_shipping_delay = Shipping delay :
